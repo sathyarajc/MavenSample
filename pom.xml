@@ -14,7 +14,7 @@
 	</scm>
 
 	<distributionManagement>
-		<!-- Publish the versioned snapshots here -->
+		<!-- Publish the versioned releases here -->
 		<repository>
 			<id>codezarvis</id>
 			<name>codezarvis-nexus</name>
