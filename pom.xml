@@ -14,14 +14,14 @@
 	</scm>
 
 	<distributionManagement>
-		<!-- Publish the versioned snapshot here -->
+		<!-- Publish the versioned releases here -->
 		<repository>
 			<id>codezarvis</id>
 			<name>codezarvis-nexus</name>
 			<url>http://35.154.42.163:8080/nexus/content/repositories/releases</url>
 		</repository>
 
-		<!-- Publish the versioned releases here -->
+		<!-- Publish the versioned snapshots here -->
 		<snapshotRepository>
 			<id>codezarvis</id>
 			<name>codezarvis-nexus</name>
